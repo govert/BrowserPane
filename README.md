@@ -34,7 +34,8 @@ I had to add some explicit initialization:
 
 ## Related projects
 
-* [WebView2.DOM - C# DOM bindings to be used with WebView2](https://github.com/R2D221/WebView2.DOM)
+* [WebView2.DOM](https://github.com/R2D221/WebView2.DOM) - C# DOM bindings to be used with WebView2
+* [Westwind.WebView - ](https://github.com/RickStrahl/Westwind.WebView) - A .NET library to aid WebView2 control hosting, .NET/JavaScript interop and Html to Pdf Conversion
 
 ## TODO
 
