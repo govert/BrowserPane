@@ -38,7 +38,7 @@ I had to add some explicit initialization:
 
 ## TODO
 
-* This sample does not implement task pane management for multiple workbooks.
+* This sample does not implement task pane management for multiple workbooks. [This approach to sharing the environment](https://weblog.west-wind.com/posts/2023/Oct/31/Caching-your-WebView-Environment-to-manage-multiple-WebView2-Controls) might help if creating many CTPs 
 * It would be nice to add some example of interaction between Excel and the browser.
 * Clean up the initialization and revisit https://github.com/MicrosoftEdge/WebView2Feedback/issues/187
 * Revisit initialization
